@@ -2,8 +2,8 @@
 
 Currently building an AI Agent for SRE [Corvo](https://corvoai.io/)
 
--   NTOU CSE undergraduate Student since 2022
--   Email : Yuankai_@outlook.com
+-   NYCU CS Master Student since 2026
+-   Email : yuankai@corvoai.io
 
 
 ## 🛠 Tech Stack
