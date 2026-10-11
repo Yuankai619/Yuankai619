@@ -1,6 +1,6 @@
 # Yuankai Liu
 
-Currently building an AI SaaS startup [CasDoc](https://casdoc.io/)
+Currently building an AI Agent for SRE [Corvo](https://corvoai.io/)
 
 -   NTOU CSE undergraduate Student since 2022
 -   Email : Yuankai_@outlook.com
